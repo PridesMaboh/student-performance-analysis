@@ -1,8 +1,8 @@
 # Student Performance Analysis: Business Intelligence Programme
 
-An end-to-end data cleaning and exploratory analysis project. I took a deliberately messy practice dataset of 77 student records, cleaned it separately in Excel, SQL, Python and R, then explored it in Python and Power BI to find out what drives students' results.
+An end-to-end data cleaning and exploratory analysis project. I took a deliberately messy practice dataset of 77 student records, cleaned it separately in Excel, Python and R, then explored it in Python and Power BI to find out what drives students' results.
 
-**Tools:** Excel, SQL (PostgreSQL), Python (pandas, seaborn, matplotlib), R (tidyverse), Power BI, Tableau
+**Tools:** Excel, Python (pandas, seaborn, matplotlib), R (tidyverse), Power BI
 
 ## The Data
 
